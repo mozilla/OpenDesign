@@ -1,6 +1,6 @@
 # Community Design
 
-Welcome to the Community Design Repo. Here you can iile issues with your design requests for the community design group, find collaborators, or find design tasks to tackle. 
+Welcome to the Community Design Repo. Here you can file issues with your design requests for the community design group, find collaborators, or find design tasks to tackle. Don't forget to use the appropriate label to let people know what you're looking for!
 
 Anyone can take (or make) a design issue!
 
