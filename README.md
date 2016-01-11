@@ -5,3 +5,11 @@ Welcome to the Community Design Repo. Here you can file issues with your design 
 Anyone can take (or make) a design issue!
 
 If you'd like to join the community design group mailing list please [sign up here](http://ow.ly/WgQ9S) and watch this repo!
+
+Suggested Issue Template: 
+
+Goal: [What you'd like created]
+Info: [What it will be used for/where it will go]
+Style Information: [What you want it to look like, link to references, similar things etc.]
+Deadline: [When would you like this done by]
+Tag: [Design Needed, Developer Needed, Question, Staff Support Needed]
