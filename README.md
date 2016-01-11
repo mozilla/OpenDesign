@@ -1,6 +1,6 @@
 # Community Design
 
-Welcome to the Community Design Repo. Here you can file issues with your design requests for the community design group, find collaborators, or find design tasks to tackle. Don't forget to use the appropriate label to let people know what you're looking for!
+Welcome to the Community Design Repo. Here you can file issues with your design requests for the community design group, find collaborators, or find design tasks to tackle. Don't forget to use the issue template below to make sure you are including all the relevant information!
 
 Anyone can take (or make) a design issue!
 
@@ -13,3 +13,5 @@ If you'd like to join the community design group mailing list please [sign up he
 * Style Information: [What you want it to look like, link to references, similar things etc.]
 * Deadline: [When would you like this done by]
 * Tag: [Design Needed, Developer Needed, Question, Staff Support Needed]
+
+Note: Because of the way permissions work on this repo, if you can't add a label yourself indicate the label you want added in the body of the issue and someone will add it for you. 
