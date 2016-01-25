@@ -6,6 +6,8 @@ Anyone can take (or make) a design issue!
 
 If you'd like to join the community design group mailing list please [sign up here](http://ow.ly/WgQ9S) and watch this repo!
 
+NEED HELP? Watch a tutorial and ask your questions [here](https://discourse.mozilla-community.org/t/love-community-design-but-not-comfortable-with-github/6626)!
+
 ## Issue Template: 
 
 * Goal: [What you'd like created]
