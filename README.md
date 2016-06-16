@@ -1,4 +1,4 @@
-# Community Design
+# Mozilla Open Design
 
 Welcome to the Mozilla Open Design Repo. Here you can file issues with your design requests for the community design group, find collaborators, or find design tasks to tackle. Don't forget to use the issue template below to make sure you are including all the relevant information!
 
