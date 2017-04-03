@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 492.1 492.1" enable-background="new 0 0 492.1 492.1" xml:space="preserve">
+<g id="Sky">
+	<g>
+		<defs>
+			<circle id="SVGID_1_" cx="246" cy="246" r="246"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<rect x="-46.5" y="-8.4" clip-path="url(#SVGID_2_)" fill="#3DC7F4" width="575.7" height="514.1"/>
+	</g>
+</g>
+<g id="_Ground">
+</g>
+<g id="A">
+</g>
+<g id="Trees">
+	<polygon fill="#1E8376" points="248.3,189 451.3,304.6 248.3,420.2 45.3,304.6 	"/>
+	<polygon opacity="0.25" fill="#808285" points="275.7,369.2 361.8,320.6 229.8,245.4 143.7,293.9 	"/>
+	<polygon fill="#9E1E3F" points="229.8,245.4 295.5,68.7 361.8,320.6 368.7,324.6 369.6,324.3 299.2,56.9 291,53.8 221.5,240.8 
+		229.2,245.1 	"/>
+	<path d="M204.9,102.4"/>
+	<path d="M209.3,104l-4.4-1.6L209.3,104z"/>
+	<polygon fill="#3DC7F4" points="143.7,293.9 229.8,245.4 295.5,68.7 209.4,117.2 	"/>
+	<polygon fill="#F2E646" points="164.5,238 248.3,195.6 343.1,249.6 254.7,289.3 	"/>
+	<g>
+		<polygon fill="none" points="143.7,293.9 143.1,293.7 275.7,369.2 209.4,117.2 		"/>
+		<polygon fill="#9E1E3F" points="143.7,293.9 209.4,117.2 275.7,369.2 282.6,373.1 283.5,372.9 213.1,105.4 204.9,102.4 
+			135.4,289.3 143.1,293.7 		"/>
+	</g>
+	<g>
+		<polygon fill="none" points="164.5,238 254.7,289.3 209.4,117.2 		"/>
+		<polygon fill="#9E1E3F" points="164.5,238 162.2,244.2 257,298.1 254.7,289.3 		"/>
+	</g>
+	<polygon fill="#E62D5C" points="282.6,373.1 369.6,324.3 299.2,56.9 213.1,105.4 	"/>
+	<polygon fill="#E62D5C" points="204.9,102.4 213.1,105.4 299.2,56.9 291,53.8 	"/>
+	<g id="Tree_3_2_">
+		<ellipse opacity="0.25" fill="#808285" cx="112.4" cy="304.6" rx="12.2" ry="7"/>
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="110.0072" y1="297.2202" x2="114.8629" y2="297.2202">
+			<stop  offset="0" style="stop-color:#6E5146"/>
+			<stop  offset="0.9949" style="stop-color:#B68573"/>
+		</linearGradient>
+		<path fill="url(#SVGID_3_)" d="M110,288.5v16.3c0,0.6,1.1,1.1,2.4,1.1c1.3,0,2.4-0.5,2.4-1.1v-16.3H110z"/>
+		<polygon fill="#1E7977" points="96.1,253.6 96.1,283.7 112.5,292.3 112.5,262.2 		"/>
+		<polygon fill="#32BDB8" points="129,253.6 129,283.7 112.5,292.3 112.5,262.2 		"/>
+		<polygon fill="#26A19B" points="112.5,245 96.1,253.6 112.5,262.2 129,253.6 		"/>
+	</g>
+	<g id="Tree_2_2_">
+		<ellipse opacity="0.25" fill="#808285" cx="385.9" cy="304.6" rx="12.2" ry="7"/>
+		<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="383.5139" y1="297.2202" x2="388.3697" y2="297.2202">
+			<stop  offset="0" style="stop-color:#6E5146"/>
+			<stop  offset="0.9949" style="stop-color:#B68573"/>
+		</linearGradient>
+		<path fill="url(#SVGID_4_)" d="M383.5,288.5v16.3c0,0.6,1.1,1.1,2.4,1.1c1.3,0,2.4-0.5,2.4-1.1v-16.3H383.5z"/>
+		<polygon fill="#1E7977" points="369.6,253.6 369.6,283.7 386,292.3 386,262.2 		"/>
+		<polygon fill="#32BDB8" points="402.5,253.6 402.5,283.7 386,292.3 386,262.2 		"/>
+		<polygon fill="#26A19B" points="386,245 369.6,253.6 386,262.2 402.5,253.6 		"/>
+	</g>
+	<g id="Tree_1_3_">
+		<polygon fill="#26A19B" points="221.5,305.9 205.1,314.5 221.5,323.1 238,314.5 		"/>
+		<g>
+			<ellipse opacity="0.25" fill="#808285" cx="221.4" cy="365.6" rx="12.2" ry="7"/>
+			<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="219.005" y1="358.1515" x2="223.8607" y2="358.1515">
+				<stop  offset="0" style="stop-color:#6E5146"/>
+				<stop  offset="0.9949" style="stop-color:#B68573"/>
+			</linearGradient>
+			<path fill="url(#SVGID_5_)" d="M219,349.5v16.3c0,0.6,1.1,1.1,2.4,1.1c1.3,0,2.4-0.5,2.4-1.1v-16.3H219z"/>
+			<polygon fill="#1E7977" points="205.1,314.5 205.1,344.6 221.5,353.2 221.5,323.1 			"/>
+			<polygon fill="#32BDB8" points="238,314.5 238,344.6 221.5,353.2 221.5,323.1 			"/>
+		</g>
+	</g>
+</g>
+</svg>
