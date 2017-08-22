@@ -17,12 +17,12 @@
 	.st11{fill:#FFFFFF;}
 	.st12{fill:#F7B83C;}
 	.st13{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
-	.st14{font-family:'FiraSans-Bold';}
+	.st14{font-family:'ZillaSlab-Bold';}
 	.st15{font-size:47px;}
 	.st16{letter-spacing:2;}
-	.st17{font-family:'FiraSans-BookItalic';}
+	.st17{font-family:'ZillaSlab-LightItalic';}
 	.st18{font-size:33.2813px;}
-	.st19{font-family:'FiraSans-Regular';}
+	.st19{font-family:'ZillaSlab-Medium';}
 	.st20{font-size:28.3961px;}
 	.st21{letter-spacing:1;}
 </style>
@@ -143,9 +143,9 @@
 </g>
 <g id="texts">
 	<g>
-		<text transform="matrix(1 0 0 1 195.6169 243.1443)"><tspan x="0" y="0" class="st11 st14 st15 st16">Build Your Own WebExtension </tspan><tspan x="152.5" y="56.4" class="st11 st14 st15 st16">Add-on FOR FIREFOX</tspan></text>
-		<text transform="matrix(1 0 0 1 383.7751 359.1177)"><tspan x="0" y="0" class="st11 st17 st18">Mozilla Space Mountain View</tspan><tspan x="93.1" y="39.9" class="st11 st17 st18">331, E Evelyn Ave</tspan><tspan x="69.8" y="79.9" class="st11 st17 st18">Sat, Aug 12, 1:00 pm</tspan></text>
+		<text transform="matrix(1 0 0 1 166.2649 243.1443)"><tspan x="0" y="0" class="st11 st14 st15 st16">Build Your Own WebExtension </tspan><tspan x="166.4" y="56.4" class="st11 st14 st15 st16">Add-on FOR FIREFOX</tspan></text>
+		<text transform="matrix(1 0 0 1 398.4836 359.1177)"><tspan x="0" y="0" class="st11 st17 st18">Mozilla Space Mountain View</tspan><tspan x="84" y="39.9" class="st11 st17 st18">331, E Evelyn Ave</tspan><tspan x="64.6" y="79.9" class="st11 st17 st18">Sat, Aug 12, 1:00 pm</tspan></text>
 	</g>
-	<text transform="matrix(1 0 0 1 473.9934 499.2891)" class="st11 st19 st20 st21">MZL.LA/WEBEXMV</text>
+	<text transform="matrix(1 0 0 1 463.9128 499.2891)" class="st11 st19 st20 st21">MZL.LA/WEBEXMV</text>
 </g>
 </svg>
