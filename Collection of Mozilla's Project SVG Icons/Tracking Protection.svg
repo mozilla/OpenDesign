@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg12033"
+   sodipodi:docname="Tracking Protection.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata12039">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12037" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     id="namedview12035"
+     showgrid="false"
+     showborder="false"
+     inkscape:zoom="22.355469"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12033" />
+  <g
+     id="g12586">
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path12029"
+       d="M27 7.154a2.688 2.688 0 0 0-2.226-2.662L16 2.985 7.227 4.491A2.69 2.69 0 0 0 5 7.153c-.006 2.031.007 5.681.155 7.319.425 4.65 1.282 7.191 3.4 10.07a11.4 11.4 0 0 0 7.33 4.452l.112.012.112-.012a11.4 11.4 0 0 0 7.33-4.452c2.12-2.879 2.977-5.42 3.4-10.07.153-1.638.166-5.288.161-7.318zm-2.147 7.137c-.391 4.287-1.125 6.49-3.021 9.065A9.562 9.562 0 0 1 16 26.989a9.568 9.568 0 0 1-5.831-3.633c-1.9-2.575-2.63-4.778-3.021-9.065C7 12.676 7 8.765 7 7.159a.7.7 0 0 1 .563-.7L16 5.015l8.436 1.448a.694.694 0 0 1 .563.7c.001 1.602.001 5.512-.147 7.128z"
+       fill="context-fill" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path12031"
+       d="M10.148 13.584c.465 5.1 1.336 6.611 2.716 8.486A6.459 6.459 0 0 0 16 24.337V7.75l-6 1.03c.021 2.264.073 3.979.148 4.804z"
+       fill="context-fill" />
+  </g>
+</svg>

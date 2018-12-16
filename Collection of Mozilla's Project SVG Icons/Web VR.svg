@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg11079"
+   sodipodi:docname="Web VR.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata11085">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11083" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     id="namedview11081"
+     showgrid="false"
+     showborder="false"
+     inkscape:zoom="1"
+     inkscape:cx="-0.3965514"
+     inkscape:cy="-36.495515"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11079" />
+  <path
+     d="m 198.29982,-165 h -380.59964 a 86.499919,86.499919 0 0 0 -86.49992,86.499919 V 94.499756 a 86.499919,86.499919 0 0 0 86.49992,86.499914 h 104.491901 a 68.750135,68.750135 0 0 0 54.045149,-25.98457 33.388969,33.388969 0 0 0 3.459997,-5.0516 l 13.2863871,-24.21997 a 17.299984,17.299984 0 0 1 30.3787719,0 l 13.251787,24.21997 a 33.388969,33.388969 0 0 0 3.459997,5.0516 68.750135,68.750135 0 0 0 53.733749,25.98457 H 198.29982 A 86.499919,86.499919 0 0 0 284.79974,94.499756 V -78.500081 A 86.499919,86.499919 0 0 0 198.29982,-165 Z M 215.5998,94.499756 A 17.299984,17.299984 0 0 1 198.29982,111.79974 H 94.499919 L 84.119928,92.562158 a 86.499919,86.499919 0 0 0 -151.963057,0 l -10.65679,19.237582 H -182.29982 A 17.299984,17.299984 0 0 1 -199.5998,94.499756 V -78.500081 a 17.299984,17.299984 0 0 1 17.29998,-17.299984 h 380.59964 a 17.299984,17.299984 0 0 1 17.29998,17.299984 z"
+     id="path11075"
+     style="fill:#000000;fill-opacity:1;stroke-width:34.59996796"
+     inkscape:connector-curvature="0" />
+  <path
+     d="m 163.69985,-61.200098 h -311.3997 a 17.299984,17.299984 0 0 0 0,34.599968 h 311.3997 a 17.299984,17.299984 0 0 0 0,-34.599968 z"
+     id="path11077"
+     style="fill:#000000;fill-opacity:1;stroke-width:34.59996796"
+     inkscape:connector-curvature="0" />
+</svg>
