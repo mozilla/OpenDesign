@@ -1,4 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M17.5 17c-2.1 0-3.5-2.5-5.5-2.5S8.4 17 6.5 17C3.9 17 2 14.6 2 10.4 2 7.8 2.8 7 6.1 7s4.3 1.4 5.9 1.4c1.6 0 2.6-1.4 5.9-1.4 3.3 0 4.1.8 4.1 3.4 0 4.2-1.9 6.6-4.5 6.6zm-9.8-6.8c-2 .1-2.9 1.3-2.9 1.6 0 .3 1.3 1.1 2.7 1.1 1.3 0 2.9-.5 2.9-.9 0-.5-.8-1.9-2.7-1.8zm8.6 0c-1.9-.1-2.7 1.3-2.7 1.8 0 .4 1.5.9 2.9.9s2.7-.8 2.7-1.1c-.1-.3-.9-1.5-2.9-1.6z" fill="#0C0C0D" fill-opacity=".8"></path></svg>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="288"
+   height="288"
+   viewBox="0 0 288 288"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="Private browsing.svg"
+   style="fill:none"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     id="namedview6"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="1"
+     inkscape:cx="-3.3040267"
+     inkscape:cy="206.13157"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 219.9,213 C 190.92,213 171.6,178.5 144,178.5 116.4,178.5 94.32,213 68.1,213 32.22,213 6,179.88 6,121.92 6,86.04 17.04,75 62.58,75 108.12,75 121.92,94.32 144,94.32 166.08,94.32 179.88,75 225.42,75 270.96,75 282,86.04 282,121.92 282,179.88 255.78,213 219.9,213 Z M 84.66,119.16 c -27.6,1.38 -40.02,17.94 -40.02,22.08 0,4.14 17.94,15.18 37.26,15.18 17.94,0 40.02,-6.9 40.02,-12.42 0,-6.9 -11.04,-26.22 -37.26,-24.84 z m 118.68,0 c -26.22,-1.38 -37.26,17.94 -37.26,24.84 0,5.52 20.7,12.42 40.02,12.42 19.32,0 37.26,-11.04 37.26,-15.18 -1.38,-4.14 -12.42,-20.7 -40.02,-22.08 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#0c0c0d;fill-opacity:0.8;stroke-width:13.80000019" />
+</svg>

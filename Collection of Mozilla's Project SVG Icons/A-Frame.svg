@@ -11,9 +11,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg13361"
-   width="876"
-   height="735"
-   viewBox="0 0 876 735"
+   width="288"
+   height="288"
+   viewBox="0 0 288 288"
    sodipodi:docname="A-Frame.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,18 +43,20 @@
      inkscape:window-height="1009"
      id="namedview13363"
      showgrid="false"
-     showborder="false"
+     showborder="true"
      inkscape:snap-nodes="true"
      inkscape:zoom="1"
-     inkscape:cx="657.06264"
-     inkscape:cy="417.10433"
+     inkscape:cx="216.4149"
+     inkscape:cy="148.58747"
      inkscape:window-x="0"
      inkscape:window-y="40"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg13361" />
   <g
-     transform="matrix(10.424693,0,0,10.424693,-2449.7038,463.07682)"
-     id="g15523">
+     transform="matrix(5.3982031,0,0,5.3982031,-1448.4304,241.31194)"
+     id="g15523"
+     inkscape:export-xdpi="25.4"
+     inkscape:export-ydpi="25.4">
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
