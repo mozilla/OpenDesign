@@ -11,9 +11,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
-   viewBox="0 0 32 32"
+   width="288"
+   height="288"
+   viewBox="0 0 288 288"
    version="1.1"
    id="svg12033"
    sodipodi:docname="Tracking Protection.svg"
@@ -45,25 +45,27 @@
      inkscape:window-height="1009"
      id="namedview12035"
      showgrid="false"
-     showborder="false"
-     inkscape:zoom="22.355469"
-     inkscape:cx="16"
-     inkscape:cy="16"
+     showborder="true"
+     inkscape:zoom="1"
+     inkscape:cx="133.63942"
+     inkscape:cy="96"
      inkscape:window-x="0"
      inkscape:window-y="40"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg12033" />
+     inkscape:current-layer="svg12033"
+     inkscape:showpageshadow="false" />
   <g
-     id="g12586">
+     id="g12586"
+     transform="matrix(10.146459,0,0,10.146459,-18.341811,-18.297679)">
     <path
        style="fill:#000000;fill-opacity:1"
        id="path12029"
-       d="M27 7.154a2.688 2.688 0 0 0-2.226-2.662L16 2.985 7.227 4.491A2.69 2.69 0 0 0 5 7.153c-.006 2.031.007 5.681.155 7.319.425 4.65 1.282 7.191 3.4 10.07a11.4 11.4 0 0 0 7.33 4.452l.112.012.112-.012a11.4 11.4 0 0 0 7.33-4.452c2.12-2.879 2.977-5.42 3.4-10.07.153-1.638.166-5.288.161-7.318zm-2.147 7.137c-.391 4.287-1.125 6.49-3.021 9.065A9.562 9.562 0 0 1 16 26.989a9.568 9.568 0 0 1-5.831-3.633c-1.9-2.575-2.63-4.778-3.021-9.065C7 12.676 7 8.765 7 7.159a.7.7 0 0 1 .563-.7L16 5.015l8.436 1.448a.694.694 0 0 1 .563.7c.001 1.602.001 5.512-.147 7.128z"
-       fill="context-fill" />
+       d="M 27,7.154 A 2.688,2.688 0 0 0 24.774,4.492 L 16,2.985 7.227,4.491 A 2.69,2.69 0 0 0 5,7.153 c -0.006,2.031 0.007,5.681 0.155,7.319 0.425,4.65 1.282,7.191 3.4,10.07 a 11.4,11.4 0 0 0 7.33,4.452 l 0.112,0.012 0.112,-0.012 a 11.4,11.4 0 0 0 7.33,-4.452 c 2.12,-2.879 2.977,-5.42 3.4,-10.07 C 26.992,12.834 27.005,9.184 27,7.154 Z m -2.147,7.137 c -0.391,4.287 -1.125,6.49 -3.021,9.065 A 9.562,9.562 0 0 1 16,26.989 9.568,9.568 0 0 1 10.169,23.356 C 8.269,20.781 7.539,18.578 7.148,14.291 7,12.676 7,8.765 7,7.159 a 0.7,0.7 0 0 1 0.563,-0.7 L 16,5.015 24.436,6.463 a 0.694,0.694 0 0 1 0.563,0.7 C 25,8.765 25,12.675 24.852,14.291 Z"
+       inkscape:connector-curvature="0" />
     <path
        style="fill:#000000;fill-opacity:1"
        id="path12031"
-       d="M10.148 13.584c.465 5.1 1.336 6.611 2.716 8.486A6.459 6.459 0 0 0 16 24.337V7.75l-6 1.03c.021 2.264.073 3.979.148 4.804z"
-       fill="context-fill" />
+       d="m 10.148,13.584 c 0.465,5.1 1.336,6.611 2.716,8.486 A 6.459,6.459 0 0 0 16,24.337 V 7.75 l -6,1.03 c 0.021,2.264 0.073,3.979 0.148,4.804 z"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
